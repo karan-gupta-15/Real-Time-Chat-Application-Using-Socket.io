@@ -33,18 +33,20 @@ Go to the Project directory and install the dependencies
 
 npm install
 
-After Installing go to the frontend directory: 
-   cd frontend/
-   npm install 
+After Installing go to the frontend directory 
+cd frontend/
+npm install 
    
 Go to terminal -> New terminal (If you are using VS code)
-. Split your terminal into two (run the client on one terminal and the server on the other terminal)
-   Start the Client
-  cd frontend
-  npm start
 
-   Start the server
-   npm run start
+Split your terminal into two (run the client on one terminal and the server on the other terminal)
+
+Start the Client
+cd frontend
+npm start
+
+Start the server
+npm run start
 
 
                
