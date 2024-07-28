@@ -22,14 +22,14 @@ I have also shared my LinkedIn profile below, which includes a project demo vide
 
 # Configuration and Setup
 
-In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
+1.> In order to run this project locally, simply fork and clone the repository or download as zip and unzip on your machine.
 
-For Cloning the repository: 
+2.> For Cloning the repository: 
   git clone https://github.com/karan-gupta-15/Real-Time-Chat-Application-Using-Socket.io.git
 
-. Open the project in your prefered code editor.
+3.> Open the project in your prefered code editor.
 
-Go to the Project directory and install the dependencies
+4.> Go to the Project directory and install the dependencies
 
 npm install
 
