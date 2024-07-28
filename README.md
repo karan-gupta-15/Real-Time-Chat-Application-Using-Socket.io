@@ -29,8 +29,9 @@ For Cloning the repository:
 
 . Open the project in your prefered code editor.
 
-Go to the Project directory and install the dependencies: 
-   npm install
+Go to the Project directory and install the dependencies
+
+npm install
 
 After Installing go to the frontend directory: 
    cd frontend/
